@@ -1,0 +1,5 @@
+#+BRAIN_PARENTS: bad%20doctrines
+:RESOURCES:
+- [[https://biblehub.com/nkjv/1_corinthians/1.htm]]
+:END:
+
