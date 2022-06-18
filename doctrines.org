@@ -1,2 +1,4 @@
+#+BRAIN_CHILDREN: christ%20in%20us%20judges,%20witnesses
+
 #+BRAIN_PARENTS: index
 
