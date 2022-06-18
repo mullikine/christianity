@@ -1,0 +1,6 @@
+#+BRAIN_PARENTS: index
+:RESOURCES:
+- [[https://www.derekprince.ca/]]
+:END:
+
+
