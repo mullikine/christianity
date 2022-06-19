@@ -1,4 +1,4 @@
-#+BRAIN_CHILDREN: binding%20and%20loosing
+#+BRAIN_CHILDREN: binding%20and%20loosing enter%20vs%20inherit
 
 #+BRAIN_PARENTS: index
 
