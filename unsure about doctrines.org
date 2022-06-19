@@ -1,4 +1,4 @@
 #+BRAIN_CHILDREN: Christ%20in%20you%20does%20not%20sin
 
-#+BRAIN_PARENTS: index
+#+BRAIN_PARENTS: index doctrines
 

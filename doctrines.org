@@ -1,4 +1,4 @@
-#+BRAIN_CHILDREN: christ%20in%20us%20judges,%20witnesses
+#+BRAIN_CHILDREN: christ%20in%20us%20judges,%20witnesses bad%20doctrines unsure%20about%20doctrines
 
 #+BRAIN_PARENTS: index
 
