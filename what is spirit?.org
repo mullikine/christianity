@@ -1,3 +1,5 @@
+#+BRAIN_CHILDREN: spiritual%20affinity
+
 #+BRAIN_PARENTS: index
 
 - https://lifehopeandtruth.com/god/holy-spirit/what-is-spirit/
