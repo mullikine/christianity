@@ -1,0 +1,19 @@
+#+BRAIN_PARENTS: index
+
+* sinner's prayer unbiblical?
+  :PROPERTIES:
+  :ID:       6431dbae-f9e5-408f-b550-084be612eda2
+  :END:
+
+#+BEGIN_SRC text -n :async :results verbatim code
+  Dear Lord Jesus, I know that I am a sinner,
+  and I ask for Your forgiveness. I believe You
+  died for my sins and rose from the dead. I
+  turn from my sins and invite You to come into
+  my heart and life. I want to trust and follow
+  You as my Lord and Savior.
+#+END_SRC
+
+I personally believe it's not enough.
+People absolutely need to 
+
