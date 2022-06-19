@@ -4,9 +4,12 @@ https://youtu.be/r5dD-O-k4FY?t=277
 
 https://www.bible.com/bible/compare/EXO.15.26
 
-If though will dilligently hearken to the voice
-and will do that whic his right in this sight
-and will give ear to his comandments
-and keep all His statutes
-I will put none of these diseeases upon thee
-which I have put upon the Egyptians.
+#+BEGIN_SRC text -n :async :results verbatim code
+  And He said, “If you will give earnest heed to
+  the voice of the LORD your God, and do what is
+  right in His sight, and give ear to His
+  commandments, and keep all His statutes, I
+  will put none of the diseases on you which I
+  have put on the Egyptians; for I, the LORD, am
+  your healer.”
+#+END_SRC
