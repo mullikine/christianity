@@ -1,0 +1,6 @@
+#+BRAIN_PARENTS: unsure%20about%20doctrines
+
+#+BEGIN_SRC sh -n :sps bash :async :results none
+  sp +/"Christ in you does not sin" "$HOME/Calibre Library/John Edmiston/The Heavenly Realms (362)/The Heavenly Realms - John Edmiston.txt"
+#+END_SRC
+
