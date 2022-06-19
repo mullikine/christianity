@@ -1,3 +1,5 @@
+#+BRAIN_CHILDREN: defense
+
 #+BRAIN_PARENTS: index
 
 * satan fears committed christians
