@@ -1,4 +1,8 @@
+#+BRAIN_FRIENDS: ambassadors
+
 #+BRAIN_PARENTS: doctrines
+
+[[brain:christianity/ambassadors]]
 
 https://www.biblegateway.com/passage/?search=1%20Corinthians%206&version=NIV
 
