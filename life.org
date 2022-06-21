@@ -1,3 +1,5 @@
+#+BRAIN_FRIENDS: eternal%20life
+
 #+BRAIN_CHILDREN: living%20spirit
 
 #+BRAIN_PARENTS: index
