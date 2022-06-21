@@ -2,6 +2,7 @@
 #+BRAIN_PARENTS: index
 
 [[https://mullikine.github.io/posts/3-disaster-dreams/][3 Disaster Dreams // Bodacious Blog]]
+# e:/home/shane/blog/posts/3-disaster-dreams.org
 
 I consider the literalness of some people's interpretation of the bible to bring death, not life.
 Without the spirit, the bible condemns.
