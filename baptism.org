@@ -1,3 +1,5 @@
+#+BRAIN_CHILDREN: the%20shadow%20of%20the%20kingdom
+
 #+BRAIN_PARENTS: index
 
 https://www.biblegateway.com/passage/?search=Colossians+2&version=KJV
