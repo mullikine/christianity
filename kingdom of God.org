@@ -1,5 +1,7 @@
 #+BRAIN_CHILDREN: binding%20and%20loosing enter%20vs%20inherit ambassadors
 
+#+BRAIN_PARENTS: index
+
 [[https://www.biblegateway.com/passage/?search=1%20Peter%202&version=KJV][1 Peter 2 KJV]]
 
 #+BEGIN_SRC text -n :async :results verbatim code
@@ -23,6 +25,4 @@
   10 Which in time past were not a people, but are now the people of God: which had not obtained mercy, but now have
   obtained mercy. 
 #+END_SRC
-
-#+BRAIN_PARENTS: index
 
