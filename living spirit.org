@@ -1,0 +1,13 @@
+#+BRAIN_PARENTS: life
+
+http://www.earlychristianwritings.com/thomas/gospelthomas114.html
+
+#+BEGIN_SRC text -n :async :results verbatim code
+  (114) Simon Peter said to them: Let Mariham go
+  out from among us, for women are not worthy of
+  the life. Jesus said: Look, I will lead her
+  that I may make her male, in order that she
+  too may become a living spirit resembling you
+  males. For every woman who makes herself male
+  will enter into the kingdom of heaven.
+#+END_SRC
