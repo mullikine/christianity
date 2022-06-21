@@ -2,3 +2,14 @@
 
 https://www.biblegateway.com/passage/?search=Colossians+2&version=KJV
 
+#+BEGIN_SRC text -n :async :results verbatim code
+  2 That their hearts might be comforted, being
+  knit together in love, and unto all riches of
+  the full assurance of understanding, to the
+  acknowledgement of the mystery of God, and of
+  the Father, and of Christ;
+  
+  3 In whom are hid all the treasures of wisdom
+  and knowledge.
+#+END_SRC
+
