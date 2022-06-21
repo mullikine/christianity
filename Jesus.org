@@ -1,4 +1,46 @@
 #+BRAIN_PARENTS: the%20image%20of%20God
 
-+ [[https://biblia.com/bible/esv/colossians/1/15][Colossians 1:15]] :: 15 iHe is the image of jthe invisible God, kthe firstborn of all creation.
+
+
+
++ [[https://biblia.com/bible/esv/colossians/1/15][Colossians 1:15]] :: 15 He is the image of the invisible God, the firstborn of all creation.
+
++ the image of the invisible God
++ the firstborn of all creation
++ in him all things were created
+  - things in heaven and on earth
+    - visible and invisible
+  - all things have been created through him and for him
+    - thrones
+    - powers
+    - rulers
+    - authorities
+- before all things
+- in him all things hold together
+- he is the head of the body, the church
+- he is the beginning and the firstborn from among the dead, so that in everything he might have the supremacy.
+- God was pleased to have all his fullness
+  dwell in him, and through him to reconcile to
+  himself all things, whether things on earth or
+  things in heaven, by making peace through his
+  blood, shed on the cross
+
+#+BEGIN_SRC text -n :async :results verbatim code
+  15 The Son is the image of the invisible God,
+  the firstborn over all creation. 16 For in him
+  all things were created: things in heaven and
+  on earth, visible and invisible, whether
+  thrones or powers or rulers or authorities;
+  all things have been created through him and
+  for him. 17 He is before all things, and in
+  him all things hold together. 18 And he is the
+  head of the body, the church; he is the
+  beginning and the firstborn from among the
+  dead, so that in everything he might have the
+  supremacy. 19 For God was pleased to have all
+  his fullness dwell in him, 20 and through him
+  to reconcile to himself all things, whether
+  things on earth or things in heaven, by making
+  peace through his blood, shed on the cross
+#+END_SRC
 
