@@ -2,14 +2,14 @@
 
 #+BRAIN_PARENTS: index
 
-
 Is the following true?
 
-God was a human.
-God may have also been a cat.
-God is a planet out of all the planets.
-God is the perfect archetype of every type of thing.
-
+#+BEGIN_SRC text -n :async :results verbatim code
+  God was a human.
+  God may have also been a cat.
+  God is a planet out of all the planets.
+  God is the perfect archetype of every type of thing.
+#+END_SRC
 
 Well, actually, according to John, all things are literally reconciled to God through Jesus.
 
