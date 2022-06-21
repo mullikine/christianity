@@ -1,13 +1,12 @@
 #+BRAIN_PARENTS: the%20image%20of%20God
 
-
-
-
 + [[https://biblia.com/bible/esv/colossians/1/15][Colossians 1:15]] :: 15 He is the image of the invisible God, the firstborn of all creation.
 
-+ the image of the invisible God
-+ the firstborn of all creation
-+ in him all things were created
+---
+
+- the image of the invisible God
+- the firstborn of all creation
+- in him all things were created
   - things in heaven and on earth
     - visible and invisible
   - all things have been created through him and for him
