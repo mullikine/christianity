@@ -1,0 +1,24 @@
+#+BRAIN_FRIENDS: children%20of%20God
+
+#+BRAIN_PARENTS: index
+
+https://www.biblegateway.com/passage/?search=Galatians+3&version=NIV
+
+#+BEGIN_SRC text -n :async :results verbatim code
+  the law was our guardian until Christ came
+  that we might be justified by faith. 25 Now
+  that this faith has come, we are no longer
+  under a guardian.
+#+END_SRC
+
+So that means, we followed the law somewhat
+blindly and were just obedient to it, and that kept us safe.
+It was a tough law but if we kept within it then we probably wouldn't sin.
+
+But now that Christ has come, we may be
+justified through faith, and we're no longer
+under a guardian.
+
+That means we are mature Christians who can
+reason and judge for themself.
+

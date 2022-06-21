@@ -1,4 +1,13 @@
+#+BRAIN_FRIENDS: law%20as%20a%20guardian%20vs%20faith%20in%20Christ%20(mature%20christians)
+
 #+BRAIN_PARENTS: index
 
 https://www.biblegateway.com/passage/?search=Galatians+3&version=NIV
+
+#+BEGIN_SRC text -n :async :results verbatim code
+  the law was our guardian until Christ came
+  that we might be justified by faith. 25 Now
+  that this faith has come, we are no longer
+  under a guardian.
+#+END_SRC
 
