@@ -1,4 +1,4 @@
-#+BRAIN_CHILDREN: temple%20heart words
+#+BRAIN_CHILDREN: temple%20heart words receiving%20holy%20spirit
 
 #+BRAIN_PARENTS: index
 

@@ -1,4 +1,4 @@
-#+BRAIN_CHILDREN: the%20shadow%20of%20the%20kingdom
+#+BRAIN_CHILDREN: the%20shadow%20of%20the%20kingdom baptism%20of%20Holy%20Spirit
 
 #+BRAIN_PARENTS: index
 
