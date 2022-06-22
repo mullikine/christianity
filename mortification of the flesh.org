@@ -1,0 +1,6 @@
+#+BRAIN_PARENTS: index
+:RESOURCES:
+- [[https://en.wikipedia.org/wiki/Mortification_of_the_flesh]]
+:END:
+
+
