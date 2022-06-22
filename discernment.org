@@ -1,4 +1,8 @@
 #+BRAIN_PARENTS: index
+:RESOURCES:
+- [[https://en.wikipedia.org/wiki/Discernment]]
+:END:
+
 
 * hypocrisy
   :PROPERTIES:
