@@ -2,3 +2,43 @@
 
 #+BRAIN_PARENTS: index
 
+* signs
+  :PROPERTIES:
+  :ID:       2a01ff58-12f7-4ea1-bde2-0d6f7e7ecdd5
+  :END:
+
+
+[[https://www.youtube.com/watch?v=U5XqtcMhSh8][Jesus Said THIS Was The Sign to Watch For.. But What Does it Mean?: The Mark Series pt 53 {13:14-23} - YouTube]]
+
+[[https://biblehub.com/kjv/matthew/24.htm][Matthew 24]]
+
+#+BEGIN_SRC text -n :async :results verbatim code
+  Witnessing to All Nations    
+  
+  (Mark 13:10-13; Luke 21:10-19)    
+  
+  9Then shall they deliver you up to be afflicted, and shall kill you: and ye shall be hated of all nations for my    
+  name's sake. 10And then shall many be offended, and shall betray one another, and shall hate one another. 11And many    
+  false prophets shall rise, and shall deceive many. 12And because iniquity shall abound, the love of many shall wax    
+  cold. 13But he that shall endure unto the end, the same shall be saved. 14And this gospel of the kingdom shall be    
+  preached in all the world for a witness unto all nations; and then shall the end come.    
+  
+   The Abomination of Desolation    
+  
+  (Mark 13:14-23; Luke 21:20-24)    
+  
+  15When ye therefore shall see the abomination of desolation, spoken of by Daniel the prophet, stand in the holy place,    
+  (whoso readeth, let him understand:) 16Then let them which be in Judaea flee into the mountains: 17Let him which is on    
+  the housetop not come down to take any thing out of his house: 18Neither let him which is in the field return back to    
+  take his clothes. 19And woe unto them that are with child, and to them that give suck in those days! 20But pray ye    
+  that your flight be not in the winter, neither on the sabbath day: 21For then shall be great tribulation, such as was    
+  not since the beginning of the world to this time, no, nor ever shall be. 22And except those days should be shortened,    
+  there should no flesh be saved: but for the elect's sake those days shall be shortened. 23Then if any man shall say    
+  unto you, Lo, here is Christ, or there; believe it not. 24For there shall arise false Christs, and false prophets, and    
+  shall shew great signs and wonders; insomuch that, if it were possible, they shall deceive the very elect. 25Behold, I    
+  have told you before.
+#+END_SRC
+
+
+** Is Maccabees legit?
+https://www.kingjamesbibleonline.org/1-Maccabees-1-54/
