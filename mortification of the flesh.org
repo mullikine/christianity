@@ -22,11 +22,13 @@ important, which is the attitude of the heart.
 
 https://biblehub.com/nkjv/romans/8.htm
 
-He condemned sin in the flesh, that the righteous requirement of the law might
-be fulfilled in us who do not walk according to the flesh but according to the
-Spirit. For those who live according to the flesh set their minds on the things
-of the flesh, but those who live according to the Spirit, the things of the
-Spirit. For to be carnally minded is death, but to be spiritually minded is
-life and peace. Because the carnal mind is enmity against God; for it is not
-subject to the law of God, nor indeed can be.  So then, those who are in the
-flesh cannot please God.
+#+BEGIN_SRC text -n :async :results verbatim code
+  He condemned sin in the flesh, that the righteous requirement of the law might
+  be fulfilled in us who do not walk according to the flesh but according to the
+  Spirit. For those who live according to the flesh set their minds on the things
+  of the flesh, but those who live according to the Spirit, the things of the
+  Spirit. For to be carnally minded is death, but to be spiritually minded is
+  life and peace. Because the carnal mind is enmity against God; for it is not
+  subject to the law of God, nor indeed can be.  So then, those who are in the
+  flesh cannot please God.
+#+END_SRC
