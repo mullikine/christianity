@@ -1,0 +1,14 @@
+#+BRAIN_PARENTS: index
+
+[[https://www.pbs.org/wgbh/pages/frontline/shows/religion/maps/primary/gthomas.html][Thomas 53]]
+
+#+BEGIN_SRC text -n :async :results verbatim code
+  53 His disciples said to him, "is circumcision useful or not?"
+  
+  He said to them, "If it were useful, their
+  father would produce children already
+  circumcised from their mother. Rather, the
+  true circumcision in spirit has become
+  profitable in every respect."
+#+END_SRC
+
