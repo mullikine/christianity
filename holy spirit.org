@@ -1,4 +1,4 @@
-#+BRAIN_CHILDREN: temple%20heart
+#+BRAIN_CHILDREN: temple%20heart words
 
 #+BRAIN_PARENTS: index
 
