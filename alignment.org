@@ -2,15 +2,24 @@
 
 https://biblia.com/books/esv/Ro10.2
 
-10 Brothers,1 my heart’s desire and prayer to
-God for them is that they may be saved. 2 For
-I bear them witness that bthey have a zeal for
-God, cbut not according to knowledge. 3 For,
-being ignorant of dthe righteousness of God,
-and seeking to establish their own, they did
-not submit to God’s righteousness. 4 For
-eChrist is the end of the law for
-righteousness to everyone who believes.2
+#+BEGIN_SRC text -n :async :results verbatim code
+  Brothers, my heart’s desire and prayer to
+  God for them is that they may be saved. For
+  I bear them witness that they have a zeal for
+  God, but not according to knowledge. For,
+  being ignorant of the righteousness of God,
+  and seeking to establish their own, they did
+  not submit to God’s righteousness. For
+  Christ is the end of the law for
+  righteousness to everyone who believes.2
+#+END_SRC
+
+This means that a person must first recognise
+that God's righteousness is above their own,
+rather than trying to find universal truths of
+righteousness without God, say through humanism.
+
+---
 
 - [[https://www.youtube.com/watch?v=YHLJ0wXrQhI][Multitudes Of Christians Are Asleep | Derek Prince Bible Study - YouTube]]
   - Spiritual =alignment= with the Kingdom of God
