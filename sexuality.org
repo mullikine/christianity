@@ -1,7 +1,6 @@
 #+BRAIN_PARENTS: index
 
-Spiritually, there is no male and female.
-https://www.biblegateway.com/passage/?search=Galatians%203%3A28&version=NIV
++ [[https://www.biblegateway.com/passage/?search=Galatians%203%3A28&version=NIV][Galatians 3]] :: 26 So in Christ Jesus you are all children of God(AR) through faith, 27 for all of you who were baptized into Christ(AS)Spiritually, there is no male and female. have clothed yourselves with Christ.(AT) 28 There is neither Jew nor Gentile, neither slave nor free,(AU) nor is there male and female,(AV) for you are all one in Christ Jesus.(AW) 29 If you belong to Christ,(AX) then you are Abraham’s seed,(AY) and heirs(AZ) according to the promise.(BA) 
 
 ---
 

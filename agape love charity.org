@@ -11,10 +11,15 @@ Such things are only partial knowledge.
 But agape/charity never fails.
 
 #+BEGIN_SRC text -n :async :results verbatim code
-  8 Charity never faileth: but whether there be prophecies, they shall fail; whether there be tongues, they shall cease; whether there be knowledge, it shall vanish away.
+  8 Charity never faileth: but whether there be
+  prophecies, they shall fail; whether there be
+  tongues, they shall cease; whether there be
+  knowledge, it shall vanish away.
   
-  9 For we know in part, and we prophesy in part.
+  9 For we know in part, and we prophesy in
+  part.
   
-  10 But when that which is perfect is come, then that which is in part shall be done away.
+  10 But when that which is perfect is come,
+  then that which is in part shall be done away.
 #+END_SRC
 
