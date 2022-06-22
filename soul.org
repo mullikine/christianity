@@ -1,4 +1,4 @@
-#+BRAIN_CHILDREN: knitting
+#+BRAIN_CHILDREN: knitting given%20by%20God
 
 #+BRAIN_PARENTS: index
 
