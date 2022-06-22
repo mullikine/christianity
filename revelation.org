@@ -1,0 +1,22 @@
+#+BRAIN_PARENTS: index
+
+However, as it is written:
+
+#+BEGIN_SRC text -n :async :results verbatim code
+  “What no eye has seen,
+      what no ear has heard,
+  and what no human mind has conceived”[b]—
+      the things God has prepared for those who love him—
+#+END_SRC
+
+10 these are the things God has revealed to us by his Spirit.
+
+The Spirit searches all things, even the deep
+things of God. 11 For who knows a person’s
+thoughts except their own spirit within them?
+In the same way no one knows the thoughts of
+God except the Spirit of God. 12 What we have
+received is not the spirit of the world, but
+the Spirit who is from God, so that we may
+understand what God has freely given us.
+
