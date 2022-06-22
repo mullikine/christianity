@@ -28,7 +28,6 @@ But agape/charity never fails.
   :ID:       027f76c2-df9d-42b8-b882-c224909e6e0f
   :END:
 
-
 #+BEGIN_SRC text -n :async :results verbatim code
   13 Though I speak with the tongues of men and of angels, and have not charity, I am become as sounding brass, or a tinkling cymbal.
   
