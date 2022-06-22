@@ -1,3 +1,6 @@
+#+BRAIN_FRIENDS: knitting
+
+#+MAYBE_FICTIONAL: t
 #+BRAIN_PARENTS: index
 
 [[https://www.pbs.org/wgbh/pages/frontline/shows/religion/maps/primary/gthomas.html][Thomas 53]]
