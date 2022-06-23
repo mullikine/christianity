@@ -1,0 +1,8 @@
+#+BRAIN_FRIENDS: literal%20law%20vs%20spirit
+
+#+BRAIN_PARENTS: index
+:RESOURCES:
+- [[https://biblehub.com/nkjv/galatians/5.htm]]
+:END:
+
+

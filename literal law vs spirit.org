@@ -1,4 +1,4 @@
-#+BRAIN_FRIENDS: litigiousness
+#+BRAIN_FRIENDS: litigiousness law%20vs%20liberty
 #+BRAIN_PARENTS: index
 
 [[https://mullikine.github.io/posts/3-disaster-dreams/][3 Disaster Dreams // Bodacious Blog]]
@@ -7,6 +7,11 @@
 I consider the literalness of some people's interpretation of the bible to bring death, not life.
 Without the spirit, the bible condemns.
 And also, it condemns basically everyone.
+
++ [[https://biblehub.com/nkjv/galatians/5.htm][Galatians 5:18]] :: But if you are led by the Spirit, you are not under the law.
+
+This means, literally, that you may break and are not condemned by 'the law' if you are led by the spirit.
+Which law? I believe this means God's law.
 
 In my opinion, this includes:
 - Condemnation of homosexuals.
