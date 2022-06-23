@@ -1,0 +1,10 @@
+#+BRAIN_PARENTS: index
+
+* mirror bible
+  :PROPERTIES:
+  :ID:       a66fb220-b7c3-4a16-934d-e31c18959b83
+  :END:
+
+https://app.mirrorword.net/
+
+https://www.youtube.com/watch?v=4yz6eoCQcNc
