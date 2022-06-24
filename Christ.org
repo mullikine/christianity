@@ -18,14 +18,14 @@
   :ID:       b31653f7-8d34-4c8c-9a2a-4bf30bd3d66a
   :END:
 
-+ [[https://biblehub.com/bsb/john/14.htm][John 14]] :: 30 I will not speak with you much longer, for the prince of this world is coming, and he has no claim on Me. 31 But I do exactly what the Father has commanded Me, so that the world may know that I love the Father.
++ [[https://biblehub.com/bsb/john/14.htm][John 14:30]] :: 30 I will not speak with you much longer, for the prince of this world is coming, and he has no claim on Me. 31 But I do exactly what the Father has commanded Me, so that the world may know that I love the Father.
 
 * blameless
   :PROPERTIES:
   :ID:       3f41096d-0779-473d-86cf-5537d250f809
   :END:
 
-https://biblehub.com/bsb/john/14.htm
++ [[https://biblehub.com/bsb/john/14.htm][John 14:30]] :: 30 I will not speak with you much longer, for the prince of this world is coming, and he has no claim on Me. 31 But I do exactly what the Father has commanded Me, so that the world may know that I love the Father.
 
 Jesus was blameless.
 
