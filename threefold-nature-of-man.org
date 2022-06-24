@@ -1,0 +1,4 @@
+#+BRAIN_CHILDREN: soul spirit
+
+#+BRAIN_PARENTS: index
+
