@@ -1,6 +1,5 @@
 #+BRAIN_PARENTS: index
 :RESOURCES:
-- [[https://www.youtube.com/watch?v=WpYBoEjS4xM]]
 :END:
 
 
@@ -21,3 +20,5 @@ https://biblehub.com/kjv/john/18.htm
   voice.
 #+END_SRC
 
+- [[https://www.youtube.com/watch?v=WpYBoEjS4xM][What is Truth? 1 of 5 - Confronted by the Truth - YouTube]]
+- [[https://www.youtube.com/watch?v=NI7mJXZlwjs][What is Truth?  2 of 5 - Jesus is the Truth - YouTube]]
