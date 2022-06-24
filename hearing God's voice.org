@@ -1,3 +1,5 @@
+#+BRAIN_FRIENDS: what%20is%20Truth
+
 #+BRAIN_PARENTS: index
 
 - give earnest heed to the voice of the LORD your God, and
@@ -25,3 +27,8 @@ Hearing God's voice is:
 - Personal
 - Intangible
 - Present
+
+* everyone of the truth
+  :PROPERTIES:
+  :ID:       40e82a98-928d-4dbf-af8f-e9061bec97e3
+  :END:
