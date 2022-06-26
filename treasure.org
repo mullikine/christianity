@@ -63,7 +63,7 @@ each other.
 
 ---
 
-[[https://www.biblegateway.com/passage/][BibleGateway.com: Search for a Bible passage in 71 languages and 224 versions.]]
+[[https://www.biblegateway.com/passage/?search=2%20Corinthians%205%3A10&version=KJV][2 Corinthians 5:10]]
 
 #+BEGIN_SRC text -n :async :results verbatim code
   10 For we must all appear before the judgment
