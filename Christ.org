@@ -2,6 +2,12 @@
 
 #+BRAIN_PARENTS: index
 
+Jesus as archetype.
+
+[[https://mullikine.github.io/posts/gospel-of-thomas/][An exergesis of the 'Gospel of Thomas' // Bodacious Blog]]
+
+---
+
 [[https://www.biblegateway.com/passage/?search=Colossians%202&version=KJV][Colossians 2]]
 
 #+BEGIN_SRC text -n :async :results verbatim code
