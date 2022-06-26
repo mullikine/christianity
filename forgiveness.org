@@ -1,0 +1,29 @@
+#+BRAIN_PARENTS: index
+
+#+BEGIN_SRC text -n :async :results verbatim code
+  remission
+      The cancellation of a debt, charge, or
+      penalty.
+      "the scheme allows for the partial
+      remission of tuition fees"
+  
+      A temporary diminution of the severity of
+      disease or pain.
+      "ten patients remained in remission"
+#+END_SRC
+
+[[https://www.bible.com/bible/114/HEB.10.15-16.NKJV][Hebrews 10:15-16]]
+
+#+BEGIN_SRC text -n :async :results verbatim code
+  15 But the Holy Spirit also witnesses to us;
+  for after He had said before, 16 “This is
+  the covenant that I will make with them
+  after those days, says the Lord: I
+  will put My laws into their hearts, and in
+  their minds I will write them,” 17 then He
+  adds, “Their sins and their lawless deeds I
+  will remember no more.” 18 Now where there is
+  5 remission of these, there is no longer an
+  offering for sin.
+#+END_SRC
+
