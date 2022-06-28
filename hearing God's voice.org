@@ -1,6 +1,8 @@
-#+BRAIN_FRIENDS: what%20is%20Truth
+#+BRAIN_FRIENDS: what%20is%20Truth faith
 
 #+BRAIN_PARENTS: index
+
+[[https://youtu.be/r5dD-O-k4FY][Hearing God's Voice {Audio} by Derek Prince - YouTube]]
 
 - give earnest heed to the voice of the LORD your God, and
 - do what is right in His sight, and
@@ -27,6 +29,12 @@ Hearing God's voice is:
 - Personal
 - Intangible
 - Present
+
+---
+
+[[https://www.youtube.com/watch?v=CEZ4JSg1xHY][Hearing Gods Voice - 5 of 10 - The Distinctive Lifestyle that Results from Hearing God's Voice - YouTube]]
+
+Faith proceeds from hearing God's voice
 
 * everyone of the truth
   :PROPERTIES:
