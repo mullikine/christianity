@@ -1,8 +1,4 @@
-#+BRAIN_CHILDREN: Thomas%2020
-
-#+BRAIN_PARENTS: index
-
-See saying 20:
+#+BRAIN_PARENTS: kingdom%20of%20heaven
 
 http://www.earlychristianwritings.com/thomas/gospelthomas20.html
 
