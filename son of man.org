@@ -1,0 +1,30 @@
+#+BRAIN_PARENTS: index
+
+** Hebrews 2:6-9
+
+#+BEGIN_SRC text -n :async :results verbatim code
+  But one has testified somewhere, saying,
+  “What is man, that You remember him?
+  Or the son of man, that You are concerned about him?
+  “You have made him for a little while lower than the angels;
+  You have crowned him with glory and honor,
+  And have appointed him over the works of Your hands;
+  You have put all things in subjection under his feet.”For in subjecting all things to him, He left nothing that is not subject to him. But now we do not yet see all things subjected to him.read more.
+  Psalm 8:4-6
+  What is man that You take thought of him,
+  And the son of man that You care for him?
+  Yet You have made him a little lower than God,
+  And You crown him with glory and majesty!
+  You make him to rule over the works of Your hands;
+  You have put all things under his feet,
+#+END_SRC
+
+** Psalm 8:4-6
+#+BEGIN_SRC text -n :async :results verbatim code
+  What is man that You take thought of him,
+  And the son of man that You care for him?
+  Yet You have made him a little lower than God,
+  And You crown him with glory and majesty!
+  You make him to rule over the works of Your hands;
+  You have put all things under his feet,
+#+END_SRC
