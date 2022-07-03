@@ -1,12 +1,5 @@
 #+BRAIN_PARENTS: index
 
-#+BEGIN_SRC text -n :async :results verbatim code
-  supermundane
-      Transcending the earthly.
-  
-      Synonyms:
-      - divine,
-      - celestial,
-      - supernatural
-#+END_SRC
+
+y:supermundane
 
